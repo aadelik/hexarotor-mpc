@@ -1,0 +1,4 @@
+/workspaces/hexarotor-mpc/build_mpc/CMakeFiles/hex_mpc.dir
+/workspaces/hexarotor-mpc/build_mpc/CMakeFiles/mpc_sensitivity.dir
+/workspaces/hexarotor-mpc/build_mpc/CMakeFiles/edit_cache.dir
+/workspaces/hexarotor-mpc/build_mpc/CMakeFiles/rebuild_cache.dir
